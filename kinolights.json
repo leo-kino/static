@@ -28,7 +28,7 @@
         }
     },
     "maintenance": {
-        "underMaintenance": true,
+        "underMaintenance": false,
         "message": {
             "default": {
                 "body": "평점부터 가격까지 한눈에, 새로운 필터 기능을 사용하려면 업데이트가 필요해요!",
